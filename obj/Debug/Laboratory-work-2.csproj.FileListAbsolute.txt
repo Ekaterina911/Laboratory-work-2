@@ -1,0 +1,7 @@
+D:\C#\Laboratory-work-2\Laboratory-work-2\bin\Debug\Laboratory-work-2.exe.config
+D:\C#\Laboratory-work-2\Laboratory-work-2\bin\Debug\Laboratory-work-2.exe
+D:\C#\Laboratory-work-2\Laboratory-work-2\bin\Debug\Laboratory-work-2.pdb
+D:\C#\Laboratory-work-2\Laboratory-work-2\obj\Debug\Laboratory-work-2.csprojAssemblyReference.cache
+D:\C#\Laboratory-work-2\Laboratory-work-2\obj\Debug\Laboratory-work-2.csproj.CoreCompileInputs.cache
+D:\C#\Laboratory-work-2\Laboratory-work-2\obj\Debug\Laboratory-work-2.exe
+D:\C#\Laboratory-work-2\Laboratory-work-2\obj\Debug\Laboratory-work-2.pdb
